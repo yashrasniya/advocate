@@ -62,7 +62,7 @@ class User(AbstractBaseUser):
     profession = models.CharField(max_length=20)
     adhar_number = models.CharField(max_length=12)
     profile_pic = models.ImageField(upload_to='profile_pic',blank=True)
-    advocate_license = models.ImageField(uploadher_to='advocate_license',blank=True)
+    advocate_license = models.ImageField(upload_to='advocate_license',blank=True)
     is_active = models.BooleanField(default=True)
     is_admin = models.BooleanField(default=False)
 

@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e541307-c2c1-4e0c-863a-0729cca5e14e" name="Default Changelist" comment="" />
+    <list default="true" id="2e541307-c2c1-4e0c-863a-0729cca5e14e" name="Default Changelist" comment="some message">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,7 +28,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../aioBackend" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration name="manage" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
@@ -51,7 +62,30 @@
       <option name="presentableId" value="Default" />
       <updated>1667587814645</updated>
     </task>
+    <task id="LOCAL-00001" summary="some message">
+      <created>1668942446025</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1668942446025</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="some message" />
+    <option name="LAST_COMMIT_MESSAGE" value="some message" />
   </component>
   <component name="WindowStateProjectService">
     <state x="96" y="0" width="1089" height="720" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1667630170804">
@@ -86,6 +120,10 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1280.720@0.0.1280.720" timestamp="1667630476034" />
+    <state x="233" y="94" key="Vcs.Push.Dialog.v2" timestamp="1668942471127">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="233" y="94" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1668942471127" />
     <state x="303" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1667882988764">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
